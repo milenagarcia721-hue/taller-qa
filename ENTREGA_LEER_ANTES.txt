@@ -1,2 +1,1 @@
 
-4. Añade las capturas reales de SonarQube cuando ejecutes el análisis.
