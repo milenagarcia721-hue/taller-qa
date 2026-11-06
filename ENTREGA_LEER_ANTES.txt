@@ -1,0 +1,22 @@
+ENTREGA DEL TALLER — ESTADO REAL
+
+Incluido y ejecutado:
+- Código ETL y pruebas unitarias/de integración.
+- 27 pruebas aprobadas en la ejecución de preparación.
+- Cobertura pytest-cov: 100% (51 sentencias, 0 faltantes).
+- coverage.xml, reporte JUnit y salida de consola.
+- Captura PNG de la ejecución real de pytest/cobertura.
+- Informe editable Markdown y PDF de 2 páginas.
+- Código vulnerable de referencia para análisis inicial, código corregido y scripts.
+- Configuración Docker Compose y SonarQube.
+
+ÚNICO BLOQUEO QUE NO PUEDE RESOLVERSE DESDE ESTE entorno:
+- SonarQube necesita ejecutarse en tu equipo con Docker y un token de tu propia instancia.
+- Por eso NO se incluyen capturas ficticias de SonarQube ni se afirma que Quality Gate esté aprobado.
+- Para terminar ese criterio, sigue README.md, ejecuta análisis antes/después y guarda las capturas reales en evidencias/.
+
+Antes de subir:
+1. Revisa README.md.
+2. No subas tokens ni contraseñas.
+3. Sube el contenido de esta carpeta al repositorio GitHub.
+4. Añade las capturas reales de SonarQube cuando ejecutes el análisis.
